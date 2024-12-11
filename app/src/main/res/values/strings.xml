@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name" translatable="false">كود فون</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-1340703016150689/6792535525</string>
+    <string name="ad_mob_test_banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <!-- <string name="yemen_mobile" translatable="false">Yemen Mobile</string>
+     <string name="saba_phone" translatable="false">Saba Phone</string>
+     <string name="you" translatable="false">YOU</string>
+     <string name="samsung" translatable="false">Samsung</string>
+     <string name="lg" translatable="false">LG</string>
+     <string name="xiaomi" translatable="false">Xiaomi</string>
+     <string name="google" translatable="false">Google</string>-->
+    <string name="smart_detector" translatable="false">الكاشف الذكي</string>
+    <string name="smart_detector_DES" translatable="false">خدمة معرفة اسم المتصل</string>
+    <string name="do_not_disturb" translatable="false">عدم الازعاج</string>
+    <string name="do_not_disturb_DES" translatable="false">عدم استقبال الاتصالات مع معرفة ارقام من يحاول الاتصاال بك</string>
+    <string name="missed_call_alert" translatable="false">تنبيه المكالمات الفائتة</string>
+    <string name="missed_call_alert_DES" translatable="false">التنبيه بوجود مكالمات فائتة عند اطفء الجهاز او عندما تكون مشغول او خارج نطاق التغطية</string>
+    <string name="borrow_me" translatable="false">سلفني</string>
+    <string name="borrow_me_DES" translatable="false">الحصول على رصيد ب 100 ريال عندما لا يتوفر لديك الرصيد الكافي ولكن يتم خصمها عند اول سداد</string>
+    <string name="please_call_me" translatable="false">يرجى الاتصال بي</string>
+    <string name="please_call_me_DES" translatable="false">ارسال رسالة \"يرجى الاتصال بي \" الى جهة انصال محددة</string>
+    <string name="doing_local_queries" translatable="false">الاستعلامات المحلية</string>
+    <string name="doing_local_queries_DES" translatable="false">مثلا يمكنك معرفة رقمك عند اختيار الرقم 5</string>
+    <string name="recharge" translatable="false">شحن الرصيد</string>
+    <string name="recharge_DES" translatable="false">شحن الرصيد عن طريق فحص رمز كرت التعبئة بالكاميرا</string>
+    <string name="mazaya_balance" translatable="false">المتبقي من رصيد مزايا</string>
+    <string name="mazaya_balance_DES" translatable="false">معرفة المتبقي من رصيد باقة مزايا</string>
+    <string name="customers_service" translatable="false">خدمة العملاء</string>
+    <string name="customers_service_DES" translatable="false">تواصل مع خدمة العملاء واستفسر عن جميع الخدمات أو قم بتقديم شكوى</string>
+
+    <string name="activate" translatable="false">تفعيل</string>
+    <string name="deactivate" translatable="false">الـغـاء</string>
+
+    <string name="contact_placeholder_des" translatable="false">انقر الايقونة للاختيار عبر قائمة جهات الاتصال</string>
+    <string name="number" translatable="false">الرقم</string>
+
+    <string name="balance_inquiry" translatable="false">الاستعلام عن الرصيد</string>
+    <string name="balance_inquiry_DES" translatable="false">معرفة المتبقي من الرصيد</string>
+    <string name="forwarding_busy" translatable="false">تحويل المكالمات (مشغول)</string>
+    <string name="forwarding_busy_DES" translatable="false">إعادة توجيه المكالمات إلى رقم آخر إذا كان رقمك مشغولاً بمكالمة أخرى</string>
+    <string name="forwarding_no_answer" translatable="false">تحويل المكالمات (عدم الرد)</string>
+    <string name="forwarding_no_answer_DES" translatable="false">إعادة توجيه المكالمات إلى رقم آخر في حالة عدم الرد</string>
+    <string name="forwarding_off" translatable="false">تحويل المكالمات (مغلق)</string>
+    <string name="forwarding_off_DES" translatable="false">إعادة توجيه المكالمات إلى رقم آخر إذا كان جهازك مغلقا او خارج نطاق اللتغطية</string>
+    <string name="forwarding_all_cases" translatable="false">تحويل المكالمات (جميع الحالات)</string>
+    <string name="my_number_inquiry" translatable="false">الاستعلام عن رقمي</string>
+    <string name="my_number_inquiry_SABAPHONE_DES" translatable="false">لمعرفة الرقم اختر الرقم 8 للفوترة والرقم 7 للدفع المسبق</string>
+    <string name="call_at_my_cost" translatable="false">اتصل على حسابي</string>
+    <string name="call_at_my_cost_DES" translatable="false">"تتيح للمشترك الاتصال على حساب مشترك اخر عند موافقت المشترك الاخر على الاتصال وتأكيدة  "</string>
+    <string name="bill_inquiry" translatable="false">الاستعلام عن الفاتورة</string>
+    <string name="bill_inquiry_DES" translatable="false">سوف تتلقى رسالة تحتوي على الفاتورة</string>
+
+    <string name="transform_balance" translatable="false">تحويل الرصيد</string>
+</resources>
